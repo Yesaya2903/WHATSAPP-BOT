@@ -1,0 +1,13 @@
+{
+    "environment": "AutoForward",
+    "AutoForward": {
+        "enabled": true,
+        "sourceGroupId": "YOUR_GROUP_ID",
+        "channelId": "YOUR_CHANNEL_ID"
+    },
+    "TrialDeploy": {
+        "enabled": true,
+        "sourceGroupId": "YOUR_GROUP_ID",
+        "channelId": "YOUR_CHANNEL_ID"
+    }
+}
